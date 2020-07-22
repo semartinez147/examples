@@ -1,0 +1,9 @@
+String input, result
+"fez day", 2
+"day fez", 2
+"day fyyyz", 2
+"day yak", 1
+"day:yak", 1
+"!!day--yaz!!", 2
+"aaz yyz my", 3
+"zxyx", 0
